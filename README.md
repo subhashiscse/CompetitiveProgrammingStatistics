@@ -10,4 +10,4 @@
 | Vjudge | [subhashis_cse](https://vjudge.net/user/subhashis_cse) | 277 | - | - |
 | LightOj | [subhashis_cse](https://lightoj.com/user/subhashis_cse) | 139 | - | - |
 | Spoj | [subhashis_cse](https://www.spoj.com/users/subhashis_cse/) | 84 | - | - |
-| Total | | 5464 | | 642 |
+| Total | | 5468 | | 642 |
